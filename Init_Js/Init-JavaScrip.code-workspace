@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "Init-JavaScrip"
+		},
+		{
+			"path": "Exo_JS"
+		},
+		{
+			"path": "Exo_8"
+		},
+		{
+			"path": "Exo_11"
+		},
+		{
+			"path": "Exo_1"
+		},
+		{
+			"path": "Exo_2"
+		},
+		{
+			"path": "Exo_3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exo_8"
+	}
+}
